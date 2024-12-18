@@ -5,8 +5,8 @@ import io
 from PIL import Image
 import base64
 
-from fontTools.designspaceLib.types import Region
-from gradio.components.image_editor import ImageType
+# from fontTools.designspaceLib.types import Region
+# from gradio.components.image_editor import ImageType
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)

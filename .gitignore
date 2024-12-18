@@ -243,6 +243,10 @@ $RECYCLE.BIN/
 
 */build/*
 
+# Clacky files
+.1024*
+!.1024
+
 # End of https://www.gitignore.io/api/osx,linux,python,windows,pycharm,visualstudiocode
 lambda_env.json
 packaged.yaml

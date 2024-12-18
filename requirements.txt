@@ -1,2 +1,3 @@
 boto3
 gradio==5.8.0
+fontTools
